@@ -2,8 +2,8 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name='zoren_pip_test',
-    version='0.2',
+    name='zoren_pip_prueba',
+    version='0.1',
     license='MIT',
     author="Zoren",
     author_email='email@example.com',
