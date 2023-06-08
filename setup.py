@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='zoren_pip_test',
-    version='0.1',
+    version='0.2',
     license='MIT',
     author="Zoren",
     author_email='email@example.com',
@@ -13,7 +13,7 @@ setup(
     keywords='example project',
     install_requires=[
           'pandas',
-          'tkinter',
+          'tk',
           'Editor',
           'matplotlib',
           'IPython',
