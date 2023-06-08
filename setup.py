@@ -9,7 +9,7 @@ setup(
     author_email='email@example.com',
     packages=find_packages('src'),
     package_dir={'': 'src'},
-    url='https://github.com/gmyrianthous/example-publish-pypi',
+    url='https://github.com/A01750658/pip_test',
     keywords='example project',
     install_requires=[
           'pandas',
